@@ -1,0 +1,6 @@
+/target/
+/.idea/
+/.settings/
+/docker-git-hello-world.iml
+/.classpath
+/.project
